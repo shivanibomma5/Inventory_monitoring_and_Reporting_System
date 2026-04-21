@@ -1,6 +1,6 @@
-# Inventory Management and Reporting System
+# Inventory Monitoring and Reporting System
 
-A full-stack inventory management application built using **Spring Boot** and **React**. This project helps manage products, stock, suppliers, and users with role-based access and reporting features.
+A full-stack inventory monitoring application built using **Spring Boot** and **React**. This project helps manage products, stock, suppliers, and users with role-based access and reporting features.
 
 ---
 
